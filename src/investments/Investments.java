@@ -1,6 +1,6 @@
 package investments;
 
-import investments.fund.ListGenerator;
+import utils.ListGenerator;
 import investments.fund.Fund;
 import java.util.ArrayList;
 import java.util.Scanner;
