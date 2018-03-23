@@ -8,6 +8,6 @@ v0.1:
 
 
 TODO:
-- uotput saved to file or db (instead printed)
+- uotput saved to file or db (instead just being printed)
 - tests
 - GUI with user input (funds list, amount, investment plan)
